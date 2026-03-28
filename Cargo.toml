@@ -1,0 +1,3 @@
+[workspace]
+members = ["function", "hello_world", "variable"]
+resolver = "2"
