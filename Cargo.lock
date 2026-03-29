@@ -19,5 +19,9 @@ name = "ownership"
 version = "0.1.0"
 
 [[package]]
+name = "struct_"
+version = "0.1.0"
+
+[[package]]
 name = "variable"
 version = "0.1.0"
